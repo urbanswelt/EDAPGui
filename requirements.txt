@@ -4,7 +4,7 @@ keyboard==0.13.5
 kthread==0.2.3
 logger==1.4
 mss==10.0.0
-numpy==2.2.2 # <2.0 # Specific version required for paddleOCR.
+numpy==2.2.3 # <2.0 # Specific version required for paddleOCR.
 opencv_python==4.11.0.86
 paddleocr
 paddlepaddle
