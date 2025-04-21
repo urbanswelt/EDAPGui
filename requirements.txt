@@ -8,11 +8,11 @@ numpy==2.2.2 # <2.0 # Specific version required for paddleOCR.
 opencv_python==4.11.0.86
 paddleocr
 paddlepaddle
-Pillow==11.1.0
+Pillow==11.2.1
 PyAutoGUI==0.9.54
-pynput==1.7.7
+pynput==1.8.1
 pyttsx3==2.98
-pywin32==308
-protobuf<=5.29.3 # Specific version required for paddlepaddle.
+pywin32==310
+protobuf<=6.30.2 # Specific version required for paddlepaddle.
 requests
 strsimpy
